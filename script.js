@@ -164,7 +164,6 @@ const projects = [
         category: "Image Gallery",
         description: "Professional image gallery with lightbox view, category filters, search functionality, and smooth animations.",
         image: "https://picsum.photos/id/104/600/450",
-        github: "https://github.com/YOUR-USERNAME/CodeAlpha_ImageGallery",
         live: "https://shazishah5352-dotcom.github.io/CodeAlpha_ImageGallery/"
     },
     {
@@ -172,7 +171,6 @@ const projects = [
         category: "Personal Brand",
         description: "Premium portfolio website with glassmorphism, custom cursor, GSAP animations, and responsive design.",
         image: "https://picsum.photos/id/30/600/450",
-        github: "https://github.com/YOUR-USERNAME/CodeAlpha_Portfolio",
         live: "https://syedzulaidsheraz.github.io/Portfolio/"
     }
 ];
