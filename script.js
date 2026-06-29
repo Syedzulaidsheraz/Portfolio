@@ -173,7 +173,7 @@ const projects = [
         description: "Premium portfolio website with glassmorphism, custom cursor, GSAP animations, and responsive design.",
         image: "https://picsum.photos/id/30/600/450",
         github: "https://github.com/YOUR-USERNAME/CodeAlpha_Portfolio",
-        live: "https://YOUR-USERNAME.github.io/CodeAlpha_Portfolio"
+        live: "https://syedzulaidsheraz.github.io/Portfolio/"
     }
 ];
 
